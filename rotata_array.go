@@ -40,7 +40,7 @@ func RotataArray1(nums []int,k int) {
 	temp := make([]int, n)
 	k = k % n
 	for i, v := range nums {
-		temp[(i+k)%n] = v
+		temp[(i+k)%n] = v //(i+k)%n为每个元素最终位置
 	}
 	copy(nums, temp)
 }
