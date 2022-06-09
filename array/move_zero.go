@@ -1,4 +1,4 @@
-package main
+package array
 
 //移动零
 //题目：

@@ -1,4 +1,4 @@
-package main
+package array
 
 import "math/rand"
 //给你一个整数数组 nums ，设计算法来打乱一个没有重复元素的数组。

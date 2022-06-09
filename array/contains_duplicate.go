@@ -1,4 +1,4 @@
-package main
+package array
 
 import "sort"
 //存在重复元素
